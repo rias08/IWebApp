@@ -1,3 +1,25 @@
+        /* Styles for small screens (e.g., mobile) */
+        @media (max-width: 768px) {
+            /* Mobile-specific styles here */
+            body {
+                font-size: 14px;
+            }
+            .container {
+                width: 95%;
+            }
+        }
+
+        /* Styles for larger screens (e.g., desktop) */
+        @media (min-width: 769px) {
+            /* Desktop-specific styles here */
+            body {
+                font-size: 16px;
+            }
+            .container {
+                width: 800px;
+            }
+        }
+
 .second {
     background-color: #E2B59A;
     h1,h3 {
