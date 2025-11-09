@@ -1,0 +1,40 @@
+.second {
+    background-color: #E2B59A;
+    h1,h3 {
+        font-family: "Brush Script MT", "Brush Script Std", cursive;
+        color: #ffe3af;
+        background-color: #B77466;
+    }
+    a {
+        color: #694825;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    button {
+        color: #ffe3af;
+        background-color: #FEE2AD;
+        }
+}
+.first {
+    a {
+        color: rgb(228, 224, 165);
+        background-color: #B77466;
+    }
+    img {
+        width: 500px;
+        height: 400px;
+    }
+    background-color: #E2B59A;
+}
+.third {
+    background-color: #9ECFD4;
+    background-image: url("https://img1.picmix.com/output/stamp/thumb/1/7/0/2/352071_1ebb6.gif");
+    h1 {
+        color: #016B61;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        -webkit-text-stroke: 0.00001px #E5E9C5;
+    }
+    h2 {
+        color: #E5E9C5;
+        background-color: #70B2B2;
+    }
+}
