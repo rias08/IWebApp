@@ -36,6 +36,7 @@
         background-color: #FEE2AD;
         }
     margin: auto;
+    image-rendering: auto;
 }
 .first {
     a {
@@ -60,4 +61,5 @@
         color: #E5E9C5;
         background-color: #70B2B2;
     }
+    image-rendering: auto;
 }
