@@ -36,7 +36,11 @@
         background-color: #FEE2AD;
         }
     margin: auto;
-    image-rendering: auto;
+    img {
+        width: auto;
+        height:auto;
+        image-rendering: auto;
+    }
 }
 .first {
     a {
@@ -44,8 +48,9 @@
         background-color: #B77466;
     }
     img {
-        width: 500px;
-        height: 400px;
+        width: 400px;
+        height: 300px;
+        image-rendering: auto;
     }
     background-color: #E2B59A;
 }
@@ -61,5 +66,9 @@
         color: #E5E9C5;
         background-color: #70B2B2;
     }
-    image-rendering: auto;
+    img {
+        width: auto;
+        height: auto;
+        image-rendering: auto;
+    }
 }
