@@ -47,10 +47,9 @@
         background-color: #B77466;
     }
     img {
-        width: auto;
-        height: auto;
-        image-rendering: auto;
-    }
+        width: 200px;
+        height: 200px
+     }
     background-color: #E2B59A;
 }
 .third {
